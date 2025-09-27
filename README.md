@@ -2,4 +2,4 @@
 
 Soo... this is to fix my own issue
 
-Also added chrome extension. If you want it, email me.
+Also may add chrome extension + encryption code. If you want it, email me.
